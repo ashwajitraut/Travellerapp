@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Travellerapp/static/css/main.909f2a7a.chunk.css",
+    "main.js": "/Travellerapp/static/js/main.182f8bc9.chunk.js",
+    "main.js.map": "/Travellerapp/static/js/main.182f8bc9.chunk.js.map",
+    "runtime-main.js": "/Travellerapp/static/js/runtime-main.cd1c8273.js",
+    "runtime-main.js.map": "/Travellerapp/static/js/runtime-main.cd1c8273.js.map",
+    "static/js/2.4d65283b.chunk.js": "/Travellerapp/static/js/2.4d65283b.chunk.js",
+    "static/js/2.4d65283b.chunk.js.map": "/Travellerapp/static/js/2.4d65283b.chunk.js.map",
+    "index.html": "/Travellerapp/index.html",
+    "static/css/main.909f2a7a.chunk.css.map": "/Travellerapp/static/css/main.909f2a7a.chunk.css.map",
+    "static/js/2.4d65283b.chunk.js.LICENSE.txt": "/Travellerapp/static/js/2.4d65283b.chunk.js.LICENSE.txt",
+    "static/media/beaches.fb8cfa51.jpg": "/Travellerapp/static/media/beaches.fb8cfa51.jpg",
+    "static/media/App.css": "/Travellerapp/static/media/switz.9aa5320c.jpg",
+    "static/media/kerala.5d10d2d5.jpg": "/Travellerapp/static/media/kerala.5d10d2d5.jpg",
+    "static/media/nyc.f56e17cb.jpg": "/Travellerapp/static/media/nyc.f56e17cb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd1c8273.js",
+    "static/js/2.4d65283b.chunk.js",
+    "static/css/main.909f2a7a.chunk.css",
+    "static/js/main.182f8bc9.chunk.js"
+  ]
+}
